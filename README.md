@@ -11,3 +11,13 @@ Assignment 2:
 
 Assignment 3:
         5. Add users to EC2 instances with SSH Access – Ansible
+
+**#Devops Final_Assignment**
+
+Assignment 1:
+
+    Setting up CI/CD Jenkins pipeline for kubernetes
+
+Assignment 2:
+
+    Setting upe CI/CD Jenkins pipeline on a Master-Slave setup using Amazon Web Services EC2 instances
